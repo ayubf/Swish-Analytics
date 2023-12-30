@@ -21,19 +21,16 @@ The objective of this project is to use statistical analysis methods on the [NBA
 
 ### Anomaly Detection
 
-1. **Exceptional Seasons:**
+1. **Breakout Seasons:**
    - Identify players who had the most exceptional seasons.
 
 2. **Age Analysis:**
    - Determine the oldest and youngest teams to play in a season.
 
-3. **Longest and Most Abnormal Careers:**
-   - Identify the player with the longest career and the one with the most abnormal career.
-
 ### Analyzing Trends
 
-1. **Positional Changes:**
-   - Explore how the attributes of certain positions have changed over time.
+1. **Physical Attributes:**
+   - Explore how the physical attributes of players have changed over time.
 
 2. **International Player Trends:**
    - Analyze the trends in the number and performance of non-US players in the league.
