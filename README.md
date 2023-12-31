@@ -3,6 +3,8 @@
 
 The objective of this project is to use statistical analysis methods on the [NBA Players dataset](https://www.kaggle.com/datasets/justinas/nba-players-data) to find patterns within player statistics, identify anomalies and outliers, and analyze trends in the data.
 
+[View in NBViewer](https://nbviewer.org/github/ayubf/Swish-Analytics/blob/main/main.ipynb#1-introduction)
+
 ## Project Objectives
 
 ### Finding Patterns
