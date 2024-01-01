@@ -9,8 +9,8 @@ The objective of this project is to use statistical analysis methods on the [NBA
 
 ### Finding Patterns
 
-1. **Correlation with Career Year:**
-   - Explore the correlation between player performance and the year of their career.
+1. **Correlation with Age:**
+   - Explore the correlation between player performance and age.
 
 2. **Top Producing Colleges:**
    - Investigate which college produces the most and best NBA players.
